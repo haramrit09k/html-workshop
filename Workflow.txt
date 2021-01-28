@@ -1,0 +1,37 @@
+Part 1 - HTML Boilerplate
+	boilerplate, html basic tags -> html, head, title, body
+	adding a comment
+
+Part 2 - Getting in touch with HTML code
+	H1 to H6 
+
+Part 3 - Some common HTML tags(1)
+	div, center, p
+
+Part 4 - Some common HTML tags(2)
+	br, footer
+	
+Part 5 - Some common HTML tags(3)
+	nav, hr, a
+
+Part 6 - Adding Images
+	img
+
+Part 7 - Navigating to Other Pages
+	From previous part, they learnt adding image, now we are making it a clickable link 
+	making a new page (laptop.html and mobile.html) and linking it via <a href>,
+	using <a href> to link to parts of a page using id attribute of div
+	target = _blank (new tab) / _self (same tab)
+
+Part 8 - Adding Videos and PDFs
+	unordered list (ul) /ordered list (ol)
+	Add video 
+	Add PDFs (optional, yet to be decided)
+
+Part 9 - Tables
+
+Part 10 - Forms and one input
+
+Part 11 - Other form inputs
+
+	
